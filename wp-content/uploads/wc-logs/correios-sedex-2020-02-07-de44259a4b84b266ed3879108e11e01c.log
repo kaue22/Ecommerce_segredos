@@ -1,0 +1,608 @@
+02-07-2020 @ 15:38:59 - Weight and cubage of the order: Array
+(
+    [weight] => 0
+    [height] => 2
+    [width] => 11
+    [length] => 16
+)
+
+02-07-2020 @ 15:38:59 - Requesting Correios WebServices: http://ws.correios.com.br/calculador/CalcPrecoPrazo.aspx?nCdServico=04014&nCdEmpresa&sDsSenha&sCepDestino=09090570&sCepOrigem=09090570&nVlAltura=2&nVlLargura=11&nVlDiametro=0&nVlComprimento=16&nVlPeso=0&nCdFormato=1&sCdMaoPropria=N&nVlValorDeclarado=80&sCdAvisoRecebimento=S&StrRetorno=xml
+02-07-2020 @ 15:39:00 - Correios WebServices response: SimpleXMLElement Object
+(
+    [cServico] => SimpleXMLElement Object
+        (
+            [Codigo] => 04014
+            [Valor] => 0,00
+            [PrazoEntrega] => 0
+            [ValorSemAdicionais] => 0,00
+            [ValorMaoPropria] => 0,00
+            [ValorAvisoRecebimento] => 0,00
+            [ValorValorDeclarado] => 0,00
+            [EntregaDomiciliar] => SimpleXMLElement Object
+                (
+                )
+
+            [EntregaSabado] => SimpleXMLElement Object
+                (
+                )
+
+            [obsFim] => SimpleXMLElement Object
+                (
+                )
+
+            [Erro] => -888
+            [MsgErro] => Não foi encontrada precificação. ERP-031: Nao informado o peso, a quantidade ou o valor(-1).
+        )
+
+)
+
+02-07-2020 @ 15:41:54 - Weight and cubage of the order: Array
+(
+    [weight] => 0
+    [height] => 2
+    [width] => 11
+    [length] => 16
+)
+
+02-07-2020 @ 15:41:54 - Requesting Correios WebServices: http://ws.correios.com.br/calculador/CalcPrecoPrazo.aspx?nCdServico=04014&nCdEmpresa&sDsSenha&sCepDestino=09090570&sCepOrigem=09090570&nVlAltura=2&nVlLargura=11&nVlDiametro=0&nVlComprimento=16&nVlPeso=0&nCdFormato=1&sCdMaoPropria=N&nVlValorDeclarado=80&sCdAvisoRecebimento=S&StrRetorno=xml
+02-07-2020 @ 15:41:54 - Correios WebServices response: SimpleXMLElement Object
+(
+    [cServico] => SimpleXMLElement Object
+        (
+            [Codigo] => 04014
+            [Valor] => 0,00
+            [PrazoEntrega] => 0
+            [ValorSemAdicionais] => 0,00
+            [ValorMaoPropria] => 0,00
+            [ValorAvisoRecebimento] => 0,00
+            [ValorValorDeclarado] => 0,00
+            [EntregaDomiciliar] => SimpleXMLElement Object
+                (
+                )
+
+            [EntregaSabado] => SimpleXMLElement Object
+                (
+                )
+
+            [obsFim] => SimpleXMLElement Object
+                (
+                )
+
+            [Erro] => -888
+            [MsgErro] => Não foi encontrada precificação. ERP-031: Nao informado o peso, a quantidade ou o valor(-1).
+        )
+
+)
+
+02-07-2020 @ 15:42:29 - Weight and cubage of the order: Array
+(
+    [weight] => 0
+    [height] => 2
+    [width] => 11
+    [length] => 16
+)
+
+02-07-2020 @ 15:42:29 - Requesting Correios WebServices: http://ws.correios.com.br/calculador/CalcPrecoPrazo.aspx?nCdServico=04014&nCdEmpresa&sDsSenha&sCepDestino=09090570&sCepOrigem=09090570&nVlAltura=2&nVlLargura=11&nVlDiametro=0&nVlComprimento=16&nVlPeso=0&nCdFormato=1&sCdMaoPropria=N&nVlValorDeclarado=80&sCdAvisoRecebimento=S&StrRetorno=xml
+02-07-2020 @ 15:42:29 - Correios WebServices response: SimpleXMLElement Object
+(
+    [cServico] => SimpleXMLElement Object
+        (
+            [Codigo] => 04014
+            [Valor] => 0,00
+            [PrazoEntrega] => 0
+            [ValorSemAdicionais] => 0,00
+            [ValorMaoPropria] => 0,00
+            [ValorAvisoRecebimento] => 0,00
+            [ValorValorDeclarado] => 0,00
+            [EntregaDomiciliar] => SimpleXMLElement Object
+                (
+                )
+
+            [EntregaSabado] => SimpleXMLElement Object
+                (
+                )
+
+            [obsFim] => SimpleXMLElement Object
+                (
+                )
+
+            [Erro] => -888
+            [MsgErro] => Não foi encontrada precificação. ERP-031: Nao informado o peso, a quantidade ou o valor(-1).
+        )
+
+)
+
+02-07-2020 @ 15:43:12 - Weight and cubage of the order: Array
+(
+    [weight] => 0
+    [height] => 2
+    [width] => 11
+    [length] => 16
+)
+
+02-07-2020 @ 15:43:12 - Requesting Correios WebServices: http://ws.correios.com.br/calculador/CalcPrecoPrazo.aspx?nCdServico=04014&nCdEmpresa&sDsSenha&sCepDestino=09090570&sCepOrigem=09090570&nVlAltura=2&nVlLargura=11&nVlDiametro=0&nVlComprimento=16&nVlPeso=0&nCdFormato=1&sCdMaoPropria=N&nVlValorDeclarado=160&sCdAvisoRecebimento=S&StrRetorno=xml
+02-07-2020 @ 15:43:12 - Correios WebServices response: SimpleXMLElement Object
+(
+    [cServico] => SimpleXMLElement Object
+        (
+            [Codigo] => 04014
+            [Valor] => 0,00
+            [PrazoEntrega] => 0
+            [ValorSemAdicionais] => 0,00
+            [ValorMaoPropria] => 0,00
+            [ValorAvisoRecebimento] => 0,00
+            [ValorValorDeclarado] => 0,00
+            [EntregaDomiciliar] => SimpleXMLElement Object
+                (
+                )
+
+            [EntregaSabado] => SimpleXMLElement Object
+                (
+                )
+
+            [obsFim] => SimpleXMLElement Object
+                (
+                )
+
+            [Erro] => -888
+            [MsgErro] => Não foi encontrada precificação. ERP-031: Nao informado o peso, a quantidade ou o valor(-1).
+        )
+
+)
+
+02-07-2020 @ 15:43:14 - Weight and cubage of the order: Array
+(
+    [weight] => 0
+    [height] => 2
+    [width] => 11
+    [length] => 16
+)
+
+02-07-2020 @ 15:43:14 - Requesting Correios WebServices: http://ws.correios.com.br/calculador/CalcPrecoPrazo.aspx?nCdServico=04014&nCdEmpresa&sDsSenha&sCepDestino=09090570&sCepOrigem=09090570&nVlAltura=2&nVlLargura=11&nVlDiametro=0&nVlComprimento=16&nVlPeso=0&nCdFormato=1&sCdMaoPropria=N&nVlValorDeclarado=240&sCdAvisoRecebimento=S&StrRetorno=xml
+02-07-2020 @ 15:43:15 - Correios WebServices response: SimpleXMLElement Object
+(
+    [cServico] => SimpleXMLElement Object
+        (
+            [Codigo] => 04014
+            [Valor] => 0,00
+            [PrazoEntrega] => 0
+            [ValorSemAdicionais] => 0,00
+            [ValorMaoPropria] => 0,00
+            [ValorAvisoRecebimento] => 0,00
+            [ValorValorDeclarado] => 0,00
+            [EntregaDomiciliar] => SimpleXMLElement Object
+                (
+                )
+
+            [EntregaSabado] => SimpleXMLElement Object
+                (
+                )
+
+            [obsFim] => SimpleXMLElement Object
+                (
+                )
+
+            [Erro] => -888
+            [MsgErro] => Não foi encontrada precificação. ERP-031: Nao informado o peso, a quantidade ou o valor(-1).
+        )
+
+)
+
+02-07-2020 @ 15:43:40 - Weight and cubage of the order: Array
+(
+    [weight] => 0
+    [height] => 2
+    [width] => 11
+    [length] => 16
+)
+
+02-07-2020 @ 15:43:40 - Requesting Correios WebServices: http://ws.correios.com.br/calculador/CalcPrecoPrazo.aspx?nCdServico=04014&nCdEmpresa&sDsSenha&sCepDestino=01010001&sCepOrigem=09090570&nVlAltura=2&nVlLargura=11&nVlDiametro=0&nVlComprimento=16&nVlPeso=0&nCdFormato=1&sCdMaoPropria=N&nVlValorDeclarado=240&sCdAvisoRecebimento=S&StrRetorno=xml
+02-07-2020 @ 15:43:40 - Correios WebServices response: SimpleXMLElement Object
+(
+    [cServico] => SimpleXMLElement Object
+        (
+            [Codigo] => 04014
+            [Valor] => 0,00
+            [PrazoEntrega] => 0
+            [ValorSemAdicionais] => 0,00
+            [ValorMaoPropria] => 0,00
+            [ValorAvisoRecebimento] => 0,00
+            [ValorValorDeclarado] => 0,00
+            [EntregaDomiciliar] => SimpleXMLElement Object
+                (
+                )
+
+            [EntregaSabado] => SimpleXMLElement Object
+                (
+                )
+
+            [obsFim] => SimpleXMLElement Object
+                (
+                )
+
+            [Erro] => -888
+            [MsgErro] => Não foi encontrada precificação. ERP-031: Nao informado o peso, a quantidade ou o valor(-1).
+        )
+
+)
+
+02-07-2020 @ 15:45:01 - Weight and cubage of the order: Array
+(
+    [weight] => 0
+    [height] => 2
+    [width] => 11
+    [length] => 16
+)
+
+02-07-2020 @ 15:45:01 - Requesting Correios WebServices: http://ws.correios.com.br/calculador/CalcPrecoPrazo.aspx?nCdServico=04014&nCdEmpresa&sDsSenha&sCepDestino=01010001&sCepOrigem=09090570&nVlAltura=2&nVlLargura=11&nVlDiametro=0&nVlComprimento=16&nVlPeso=0&nCdFormato=1&sCdMaoPropria=N&nVlValorDeclarado=240&sCdAvisoRecebimento=N&StrRetorno=xml
+02-07-2020 @ 15:45:02 - Correios WebServices response: SimpleXMLElement Object
+(
+    [cServico] => SimpleXMLElement Object
+        (
+            [Codigo] => 04014
+            [Valor] => 0,00
+            [PrazoEntrega] => 0
+            [ValorSemAdicionais] => 0,00
+            [ValorMaoPropria] => 0,00
+            [ValorAvisoRecebimento] => 0,00
+            [ValorValorDeclarado] => 0,00
+            [EntregaDomiciliar] => SimpleXMLElement Object
+                (
+                )
+
+            [EntregaSabado] => SimpleXMLElement Object
+                (
+                )
+
+            [obsFim] => SimpleXMLElement Object
+                (
+                )
+
+            [Erro] => -888
+            [MsgErro] => Não foi encontrada precificação. ERP-031: Nao informado o peso, a quantidade ou o valor(-1).
+        )
+
+)
+
+02-07-2020 @ 15:45:10 - Weight and cubage of the order: Array
+(
+    [weight] => 0
+    [height] => 2
+    [width] => 11
+    [length] => 16
+)
+
+02-07-2020 @ 15:45:10 - Requesting Correios WebServices: http://ws.correios.com.br/calculador/CalcPrecoPrazo.aspx?nCdServico=04014&nCdEmpresa&sDsSenha&sCepDestino=01010001&sCepOrigem=09090570&nVlAltura=2&nVlLargura=11&nVlDiametro=0&nVlComprimento=16&nVlPeso=0&nCdFormato=1&sCdMaoPropria=N&nVlValorDeclarado=80&sCdAvisoRecebimento=N&StrRetorno=xml
+02-07-2020 @ 15:45:11 - Correios WebServices response: SimpleXMLElement Object
+(
+    [cServico] => SimpleXMLElement Object
+        (
+            [Codigo] => 04014
+            [Valor] => 0,00
+            [PrazoEntrega] => 0
+            [ValorSemAdicionais] => 0,00
+            [ValorMaoPropria] => 0,00
+            [ValorAvisoRecebimento] => 0,00
+            [ValorValorDeclarado] => 0,00
+            [EntregaDomiciliar] => SimpleXMLElement Object
+                (
+                )
+
+            [EntregaSabado] => SimpleXMLElement Object
+                (
+                )
+
+            [obsFim] => SimpleXMLElement Object
+                (
+                )
+
+            [Erro] => -888
+            [MsgErro] => Não foi encontrada precificação. ERP-031: Nao informado o peso, a quantidade ou o valor(-1).
+        )
+
+)
+
+02-07-2020 @ 15:45:12 - Weight and cubage of the order: Array
+(
+    [weight] => 0
+    [height] => 2
+    [width] => 11
+    [length] => 16
+)
+
+02-07-2020 @ 15:45:12 - Requesting Correios WebServices: http://ws.correios.com.br/calculador/CalcPrecoPrazo.aspx?nCdServico=04014&nCdEmpresa&sDsSenha&sCepDestino=01010001&sCepOrigem=09090570&nVlAltura=2&nVlLargura=11&nVlDiametro=0&nVlComprimento=16&nVlPeso=0&nCdFormato=1&sCdMaoPropria=N&nVlValorDeclarado=160&sCdAvisoRecebimento=N&StrRetorno=xml
+02-07-2020 @ 15:45:13 - Correios WebServices response: SimpleXMLElement Object
+(
+    [cServico] => SimpleXMLElement Object
+        (
+            [Codigo] => 04014
+            [Valor] => 0,00
+            [PrazoEntrega] => 0
+            [ValorSemAdicionais] => 0,00
+            [ValorMaoPropria] => 0,00
+            [ValorAvisoRecebimento] => 0,00
+            [ValorValorDeclarado] => 0,00
+            [EntregaDomiciliar] => SimpleXMLElement Object
+                (
+                )
+
+            [EntregaSabado] => SimpleXMLElement Object
+                (
+                )
+
+            [obsFim] => SimpleXMLElement Object
+                (
+                )
+
+            [Erro] => -888
+            [MsgErro] => Não foi encontrada precificação. ERP-031: Nao informado o peso, a quantidade ou o valor(-1).
+        )
+
+)
+
+02-07-2020 @ 15:49:39 - Weight and cubage of the order: Array
+(
+    [weight] => 0
+    [height] => 2
+    [width] => 11
+    [length] => 16
+)
+
+02-07-2020 @ 15:49:39 - Requesting Correios WebServices: http://ws.correios.com.br/calculador/CalcPrecoPrazo.aspx?nCdServico=04014&nCdEmpresa&sDsSenha&sCepDestino=01010001&sCepOrigem=09090570&nVlAltura=2&nVlLargura=11&nVlDiametro=0&nVlComprimento=16&nVlPeso=0&nCdFormato=1&sCdMaoPropria=N&nVlValorDeclarado=525&sCdAvisoRecebimento=N&StrRetorno=xml
+02-07-2020 @ 15:49:40 - Correios WebServices response: SimpleXMLElement Object
+(
+    [cServico] => SimpleXMLElement Object
+        (
+            [Codigo] => 04014
+            [Valor] => 0,00
+            [PrazoEntrega] => 0
+            [ValorSemAdicionais] => 0,00
+            [ValorMaoPropria] => 0,00
+            [ValorAvisoRecebimento] => 0,00
+            [ValorValorDeclarado] => 0,00
+            [EntregaDomiciliar] => SimpleXMLElement Object
+                (
+                )
+
+            [EntregaSabado] => SimpleXMLElement Object
+                (
+                )
+
+            [obsFim] => SimpleXMLElement Object
+                (
+                )
+
+            [Erro] => -888
+            [MsgErro] => Não foi encontrada precificação. ERP-031: Nao informado o peso, a quantidade ou o valor(-1).
+        )
+
+)
+
+02-07-2020 @ 15:49:41 - Weight and cubage of the order: Array
+(
+    [weight] => 0
+    [height] => 2
+    [width] => 11
+    [length] => 16
+)
+
+02-07-2020 @ 15:49:41 - Requesting Correios WebServices: http://ws.correios.com.br/calculador/CalcPrecoPrazo.aspx?nCdServico=04014&nCdEmpresa&sDsSenha&sCepDestino=01010001&sCepOrigem=09090570&nVlAltura=2&nVlLargura=11&nVlDiametro=0&nVlComprimento=16&nVlPeso=0&nCdFormato=1&sCdMaoPropria=N&nVlValorDeclarado=1050&sCdAvisoRecebimento=N&StrRetorno=xml
+02-07-2020 @ 15:49:41 - Correios WebServices response: SimpleXMLElement Object
+(
+    [cServico] => SimpleXMLElement Object
+        (
+            [Codigo] => 04014
+            [Valor] => 0,00
+            [PrazoEntrega] => 0
+            [ValorSemAdicionais] => 0,00
+            [ValorMaoPropria] => 0,00
+            [ValorAvisoRecebimento] => 0,00
+            [ValorValorDeclarado] => 0,00
+            [EntregaDomiciliar] => SimpleXMLElement Object
+                (
+                )
+
+            [EntregaSabado] => SimpleXMLElement Object
+                (
+                )
+
+            [obsFim] => SimpleXMLElement Object
+                (
+                )
+
+            [Erro] => -888
+            [MsgErro] => Não foi encontrada precificação. ERP-031: Nao informado o peso, a quantidade ou o valor(-1).
+        )
+
+)
+
+02-07-2020 @ 15:49:43 - Weight and cubage of the order: Array
+(
+    [weight] => 0
+    [height] => 2
+    [width] => 11
+    [length] => 16
+)
+
+02-07-2020 @ 15:49:43 - Requesting Correios WebServices: http://ws.correios.com.br/calculador/CalcPrecoPrazo.aspx?nCdServico=04014&nCdEmpresa&sDsSenha&sCepDestino=01010001&sCepOrigem=09090570&nVlAltura=2&nVlLargura=11&nVlDiametro=0&nVlComprimento=16&nVlPeso=0&nCdFormato=1&sCdMaoPropria=N&nVlValorDeclarado=1575&sCdAvisoRecebimento=N&StrRetorno=xml
+02-07-2020 @ 15:49:43 - Correios WebServices response: SimpleXMLElement Object
+(
+    [cServico] => SimpleXMLElement Object
+        (
+            [Codigo] => 04014
+            [Valor] => 0,00
+            [PrazoEntrega] => 0
+            [ValorSemAdicionais] => 0,00
+            [ValorMaoPropria] => 0,00
+            [ValorAvisoRecebimento] => 0,00
+            [ValorValorDeclarado] => 0,00
+            [EntregaDomiciliar] => SimpleXMLElement Object
+                (
+                )
+
+            [EntregaSabado] => SimpleXMLElement Object
+                (
+                )
+
+            [obsFim] => SimpleXMLElement Object
+                (
+                )
+
+            [Erro] => -888
+            [MsgErro] => Não foi encontrada precificação. ERP-031: Nao informado o peso, a quantidade ou o valor(-1).
+        )
+
+)
+
+02-07-2020 @ 15:49:57 - Weight and cubage of the order: Array
+(
+    [weight] => 0
+    [height] => 2
+    [width] => 11
+    [length] => 16
+)
+
+02-07-2020 @ 15:49:57 - Requesting Correios WebServices: http://ws.correios.com.br/calculador/CalcPrecoPrazo.aspx?nCdServico=04014&nCdEmpresa&sDsSenha&sCepDestino=09090570&sCepOrigem=09090570&nVlAltura=2&nVlLargura=11&nVlDiametro=0&nVlComprimento=16&nVlPeso=0&nCdFormato=1&sCdMaoPropria=N&nVlValorDeclarado=1575&sCdAvisoRecebimento=N&StrRetorno=xml
+02-07-2020 @ 15:49:58 - Correios WebServices response: SimpleXMLElement Object
+(
+    [cServico] => SimpleXMLElement Object
+        (
+            [Codigo] => 04014
+            [Valor] => 0,00
+            [PrazoEntrega] => 0
+            [ValorSemAdicionais] => 0,00
+            [ValorMaoPropria] => 0,00
+            [ValorAvisoRecebimento] => 0,00
+            [ValorValorDeclarado] => 0,00
+            [EntregaDomiciliar] => SimpleXMLElement Object
+                (
+                )
+
+            [EntregaSabado] => SimpleXMLElement Object
+                (
+                )
+
+            [obsFim] => SimpleXMLElement Object
+                (
+                )
+
+            [Erro] => -888
+            [MsgErro] => Não foi encontrada precificação. ERP-031: Nao informado o peso, a quantidade ou o valor(-1).
+        )
+
+)
+
+02-07-2020 @ 15:50:09 - Weight and cubage of the order: Array
+(
+    [weight] => 0
+    [height] => 2
+    [width] => 11
+    [length] => 16
+)
+
+02-07-2020 @ 15:50:09 - Requesting Correios WebServices: http://ws.correios.com.br/calculador/CalcPrecoPrazo.aspx?nCdServico=04014&nCdEmpresa&sDsSenha&sCepDestino=09090570&sCepOrigem=09090570&nVlAltura=2&nVlLargura=11&nVlDiametro=0&nVlComprimento=16&nVlPeso=0&nCdFormato=1&sCdMaoPropria=N&nVlValorDeclarado=1575&sCdAvisoRecebimento=N&StrRetorno=xml
+02-07-2020 @ 15:50:10 - Correios WebServices response: SimpleXMLElement Object
+(
+    [cServico] => SimpleXMLElement Object
+        (
+            [Codigo] => 04014
+            [Valor] => 0,00
+            [PrazoEntrega] => 0
+            [ValorSemAdicionais] => 0,00
+            [ValorMaoPropria] => 0,00
+            [ValorAvisoRecebimento] => 0,00
+            [ValorValorDeclarado] => 0,00
+            [EntregaDomiciliar] => SimpleXMLElement Object
+                (
+                )
+
+            [EntregaSabado] => SimpleXMLElement Object
+                (
+                )
+
+            [obsFim] => SimpleXMLElement Object
+                (
+                )
+
+            [Erro] => -888
+            [MsgErro] => Não foi encontrada precificação. ERP-031: Nao informado o peso, a quantidade ou o valor(-1).
+        )
+
+)
+
+02-07-2020 @ 15:50:23 - Weight and cubage of the order: Array
+(
+    [weight] => 0
+    [height] => 2
+    [width] => 11
+    [length] => 16
+)
+
+02-07-2020 @ 15:50:23 - Requesting Correios WebServices: http://ws.correios.com.br/calculador/CalcPrecoPrazo.aspx?nCdServico=04014&nCdEmpresa&sDsSenha&sCepDestino=09090570&sCepOrigem=09090570&nVlAltura=2&nVlLargura=11&nVlDiametro=0&nVlComprimento=16&nVlPeso=0&nCdFormato=1&sCdMaoPropria=N&nVlValorDeclarado=1575&sCdAvisoRecebimento=N&StrRetorno=xml
+02-07-2020 @ 15:50:24 - Correios WebServices response: SimpleXMLElement Object
+(
+    [cServico] => SimpleXMLElement Object
+        (
+            [Codigo] => 04014
+            [Valor] => 0,00
+            [PrazoEntrega] => 0
+            [ValorSemAdicionais] => 0,00
+            [ValorMaoPropria] => 0,00
+            [ValorAvisoRecebimento] => 0,00
+            [ValorValorDeclarado] => 0,00
+            [EntregaDomiciliar] => SimpleXMLElement Object
+                (
+                )
+
+            [EntregaSabado] => SimpleXMLElement Object
+                (
+                )
+
+            [obsFim] => SimpleXMLElement Object
+                (
+                )
+
+            [Erro] => -888
+            [MsgErro] => Não foi encontrada precificação. ERP-031: Nao informado o peso, a quantidade ou o valor(-1).
+        )
+
+)
+
+02-07-2020 @ 15:50:30 - Weight and cubage of the order: Array
+(
+    [weight] => 0
+    [height] => 2
+    [width] => 11
+    [length] => 16
+)
+
+02-07-2020 @ 15:50:30 - Requesting Correios WebServices: http://ws.correios.com.br/calculador/CalcPrecoPrazo.aspx?nCdServico=04014&nCdEmpresa&sDsSenha&sCepDestino=09090570&sCepOrigem=09090570&nVlAltura=2&nVlLargura=11&nVlDiametro=0&nVlComprimento=16&nVlPeso=0&nCdFormato=1&sCdMaoPropria=N&nVlValorDeclarado=1575&sCdAvisoRecebimento=N&StrRetorno=xml
+02-07-2020 @ 15:50:30 - Correios WebServices response: SimpleXMLElement Object
+(
+    [cServico] => SimpleXMLElement Object
+        (
+            [Codigo] => 04014
+            [Valor] => 0,00
+            [PrazoEntrega] => 0
+            [ValorSemAdicionais] => 0,00
+            [ValorMaoPropria] => 0,00
+            [ValorAvisoRecebimento] => 0,00
+            [ValorValorDeclarado] => 0,00
+            [EntregaDomiciliar] => SimpleXMLElement Object
+                (
+                )
+
+            [EntregaSabado] => SimpleXMLElement Object
+                (
+                )
+
+            [obsFim] => SimpleXMLElement Object
+                (
+                )
+
+            [Erro] => -888
+            [MsgErro] => Não foi encontrada precificação. ERP-031: Nao informado o peso, a quantidade ou o valor(-1).
+        )
+
+)
+
